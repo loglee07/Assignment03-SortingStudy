@@ -1,0 +1,54 @@
+
+Input: Random | Size: 100
+Bubble Sort: 30 microseconds | Sorted: Yes
+Selection Sort: 21 microseconds | Sorted: Yes
+Insertion Sort: 10 microseconds | Sorted: Yes
+Quicksort: 8 microseconds | Sorted: Yes
+
+Input: Already Sorted | Size: 100
+Bubble Sort: 0 microseconds | Sorted: Yes
+Selection Sort: 17 microseconds | Sorted: Yes
+Insertion Sort: 0 microseconds | Sorted: Yes
+Quicksort: 2 microseconds | Sorted: Yes
+
+Input: Reverse Sorted | Size: 100
+Bubble Sort: 34 microseconds | Sorted: Yes
+Selection Sort: 18 microseconds | Sorted: Yes
+Insertion Sort: 20 microseconds | Sorted: Yes
+Quicksort: 2 microseconds | Sorted: Yes
+
+Input: Random | Size: 1000
+Bubble Sort: 3229 microseconds | Sorted: Yes
+Selection Sort: 1696 microseconds | Sorted: Yes
+Insertion Sort: 1095 microseconds | Sorted: Yes
+Quicksort: 112 microseconds | Sorted: Yes
+
+Input: Already Sorted | Size: 1000
+Bubble Sort: 2 microseconds | Sorted: Yes
+Selection Sort: 1614 microseconds | Sorted: Yes
+Insertion Sort: 5 microseconds | Sorted: Yes
+Quicksort: 19 microseconds | Sorted: Yes
+
+Input: Reverse Sorted | Size: 1000
+Bubble Sort: 3572 microseconds | Sorted: Yes
+Selection Sort: 1808 microseconds | Sorted: Yes
+Insertion Sort: 1892 microseconds | Sorted: Yes
+Quicksort: 18 microseconds | Sorted: Yes
+
+Input: Random | Size: 5000
+Bubble Sort: 57993 microseconds | Sorted: Yes
+Selection Sort: 26432 microseconds | Sorted: Yes
+Insertion Sort: 17512 microseconds | Sorted: Yes
+Quicksort: 418 microseconds | Sorted: Yes
+
+Input: Already Sorted | Size: 5000
+Bubble Sort: 8 microseconds | Sorted: Yes
+Selection Sort: 26248 microseconds | Sorted: Yes
+Insertion Sort: 19 microseconds | Sorted: Yes
+Quicksort: 72 microseconds | Sorted: Yes
+
+Input: Reverse Sorted | Size: 5000
+Bubble Sort: 62512 microseconds | Sorted: Yes
+Selection Sort: 28031 microseconds | Sorted: Yes
+Insertion Sort: 34709 microseconds | Sorted: Yes
+Quicksort: 81 microseconds | Sorted: Yes
